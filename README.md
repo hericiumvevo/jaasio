@@ -1,5 +1,7 @@
 <h2 align="center">Jasio</h2>
+<p align="center"> <a href="https://discord.gg/yp4xpZeAgW"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?color=blue&label=Discord&logo=Discord&logoColor=white"?link=https://discord.gg/yp4xpZeAgW&link=https://discord.gg/yp4xpZeAgW> </p></a>
 <p align="center">I have no idea what i am doing!</p>
-<p class="text-left">- 🔭 I currently work at <a href="https://github.com/crystalux-project">crystalux</a></p>
-<p class="text-left">- 📫 How to reach me: Jasio#0001</p>
-<p class="text-left">- 😄 Pronouns: he/they</p>
+
+- 🔭 I currently work at <a href="https://github.com/crystalux-project">crystalux</a>
+- 📫 How to reach me: Jasio#0001
+- 😄 Pronouns: he/they
